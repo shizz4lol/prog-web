@@ -1,0 +1,2 @@
+# Bueno, GIthub para la presentacion/tp de taller de Programacion Estatica y Laboratorio web. La idea es que metan todos sus archivos html aca, y que en lo posible modifiquen la ruta 
+de sus imagenes (si es que incluyeron) para que corresponda a la carpeta "ImagenesPW", asi le quitan un poco de trabajo a Sol. Ella se va a encargar de revisar los archivos, aplicarle el indice en forma de lista, y todo lo relacionado al formato general de la pagina.
